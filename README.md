@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwbartels
-- 👀 I’m interested in building things that just work.
-- 🌱 I’m currently growing my knowledge in FastAPI, and picking up Golang.
+- 👀 I’m a Full-Stack Developer interested in building things that just work.
+- 🌱 Currently working on continuing to grow my React mastery, preferring a FastAPI/Typescript stack when suitable.
 - 📫 How to reach me: https://www.linkedin.com/in/edward-bartels-7144b9330/
 
 
